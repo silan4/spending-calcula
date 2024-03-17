@@ -27,3 +27,4 @@
 - -  değer her değiştiğinde seçilen bilgiyi al
 - - seçilen değere göre filtreleme yap# spending-calculator
 # spending-calculator
+# spending-calculator
