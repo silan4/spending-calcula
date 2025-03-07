@@ -31,6 +31,4 @@
 - - CssScan
 
 
-# Calculator
-# Expenditure-calculator
-# spending-calcula
+
