@@ -1,36 +1,34 @@
-# Harcama Hesaplayıcı
+# Calculate
 
-# Yapılacakar
-
-- Ekleme Özelliği:
-- - Ekle butonuna tıklanıldığı anda inputların verilerine eriş
-- - inputlar boşsa kullanıcıya uyarı ver 
-- - boş değilse ekrana harcama kartı bas 
-- - ödendi tıklandıysa elemana ``` paid ``` class'ı ekle
-- -  en son bütün inputları temizle
-
-- Toplam Bilgisi:
-
-- - Html de bir toplam alanı js'de toplam değişkeni oluştur 
-- - Her harcama eklendiğinde harcamının fiyatını toplam değişkenine ekle 
-- - Harcama silindiğinde toplam'dan fiyatı çıkar 
-- - Değişken her güncellendiğinde ekranı da güncelle
+- This project is an expense calculator application developed using HTML, CSS, and JavaScript. Users can enter their spending, see the total expenses, and mark whether the expenses have been paid or not.
 
 
-- Silme | Güncelleme özelliği
-- - Listedeki bütün tıklanma olaylarını izle
-- - tıklanılan id `` delete`` ise elemanı kaldır ve toplamdan çıkar
-- -  tıklanılan id ``` update ``` ise paid classına ekle veya çıkar
+# Preview
 
-- Harcamaları Filtreleme 
-- - Html de select alanı oluştur
-- -  değer her değiştiğinde seçilen bilgiyi al
-- - seçilen değere göre filtreleme yap# spending-calculator
-# spending-calculator
-# spending-calculator
-# expense-calculator
-# expense-calculator
-# calcalutor
-# calculate-expenses
-# calculate-expenses
-# expense
+![](/expense.gif)
+
+# Properties
+
+- - The user can enter the expense name and price.
+- - With the "Add" button, the expense is added to the list.
+- - Total spend is calculated automatically.
+- - The expense can be marked as paid.
+- - With the filtering option, all, paid, and unpaid expenses can be listed.
+- - A modern and sleek user interface.
+- - Optimized code structure.
+- - The project has a fully responsive structure.
+
+# Technologies Used
+
+- - HTML
+- - CSS
+- - JAVASCRİPT
+
+# Libraries Used
+
+- - Google Fonts
+- - Icons8
+- - CssScan
+
+
+# Calculator
